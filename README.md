@@ -1,3 +1,3 @@
 # whoi-cns
-Computer Network Systems
+Computer Network Systems;
 gitWorkShop 21June2017
